@@ -1,5 +1,6 @@
 ### Recent News
-  - AIChE in Minneapolis, MN!
+  - AIChE in Minneapolis, MN; October 29-November 3, 2017
+    - I gave a talk entitled "Self-Assembly Simulations of Stratum Corneum Lipid Mixtures" at the 2017 AIChE Annual Meeting
 
 ### Designer Templates
 We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
