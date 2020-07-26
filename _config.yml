@@ -1,4 +1,5 @@
 name: Tim Moore, Ph.D.
+title: Tim Moore, Ph.D.
 markdown: kramdown
 theme: jekyll-theme-minimal
 permalink: /blog/:year/:month/:day/:title
