@@ -1,5 +1,5 @@
 name: Tim Moore, Ph.D.
 title: Tim Moore, Ph.D.
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 permalink: /blog/:year/:month/:day/:title
