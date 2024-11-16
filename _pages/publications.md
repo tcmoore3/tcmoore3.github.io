@@ -4,7 +4,7 @@ title: "List of publications"
 ---
 1. Marino, E., LaCour, R.A., **Moore, T. C.**, van Dongen, S., Keller, A.W., An, D., Yang, S., Rosen, D.J., Gouget,  G.,  Tsai,  E. H. R.,  Kagan,  C. R.,  Kodger,  T. E.,  Glotzer,  S. C.,  and Murray,  C. B. Crystallization of binary nanocrystal superlattices revealed by in situ x-ray scattering and the relevance of short-ranged attraction. *Nature Synthesis*,  *accepted*
 1. Dwyer,  T.,  **Moore, T. C.**,  Anderson,  J. A.,  and Glotzer,  S. C. Tunable assembly of host–guest colloidal crystals. *Soft Matter* (2023)
-1. Moore,  T. C.,  Rivera-Rivera,  L. Y.,  and Glotzer,  S. C. Inverse design of triblock janus spheres for self-assembly of complex structures in the crystallization slot via digital alchemy. *Soft Matter* 19 (2023),  pp. 2726–2736
+1. **Moore,  T. C.,**  Rivera-Rivera,  L. Y.,  and Glotzer,  S. C. Inverse design of triblock janus spheres for self-assembly of complex structures in the crystallization slot via digital alchemy. *Soft Matter* 19 (2023),  pp. 2726–2736
 1. Shamaprasad,  P.,  Frame,  C. O.,  **Moore, T. C.**,  Yang,  A.,  Iacovella,  C. R.,  Bouwstra,  J. A.,  Bunge,  A. L.,  and McCabe,  C. Using molecular simulation to understand the skin barrier. *Progress in Lipid Research* (2022),  p. 101184
 1. LaCour,  R. A.,  **Moore, T. C.**,  and Glotzer,  S. C. Tuning stoichiometry to promote formation of binary colloidal superlattices. *Physical Review Letters* 128 (2022)
 1. Shamaprasad, P., **Moore, T. C.**, Xia, D., Iacovella, C.R., Bunge, A.L., and McCabe, C. Multiscale simulation of ternary stratum corneum lipid mixtures: Effects of cholesterol composition. *Langmuir* 38 (2022),  pp. 7496–7511
