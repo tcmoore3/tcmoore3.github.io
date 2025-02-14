@@ -1,7 +1,9 @@
 main:
+  - title: "Research"
+    url: /research/
   - title: "Publications"
     url: /publications/
-  - title: "News"
-    url: /posts/
-# - title: "CV (PDF)"
-#   url: /cv/
+  - title: "CV (PDF)"
+    url: /cv/
+  # - title: "News"
+  #   url: /posts/
