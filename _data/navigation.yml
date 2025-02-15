@@ -3,7 +3,7 @@ main:
   #   url: /research/
   - title: "Publications"
     url: /publications/
-  # - title: "CV (PDF)"
-  #   url: /cv/
+  - title: "CV (PDF)"
+    url: https://tcmoore3.github.io/pdfs/tcm-cv.pdf
   # - title: "News"
   #   url: /posts/
