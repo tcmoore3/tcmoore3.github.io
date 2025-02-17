@@ -1,8 +1,10 @@
 main:
-  # - title: "Research"
-  #   url: /research/
+  - title: "Research"
+    url: /research/
   - title: "Publications"
     url: /publications/
+  - title: "News"
+    url: /posts/
   - title: "CV (PDF)"
     url: https://tcmoore3.github.io/pdfs/tcm-cv.pdf
   # - title: "News"
