@@ -11,7 +11,8 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
     path = pathlib.Path(args.bib_path)
-    bib_data = pybtex.database.parse_file(path)
+
+    # write header
     lines = []
     lines.extend(
         ["---", "permalink: /publications/", 'title: "List of publications"', "---"]
@@ -20,8 +21,13 @@ if __name__ == "__main__":
         "Titles link to a PDF of that publication (with supplementary information included!). †equal contribution."
     )
     lines.append("")
+
+    # parse entries
+    bib_data = pybtex.database.parse_file(path)
     for idx, (cite_key, entry) in enumerate(bib_data.entries.items()):
-        str_ = f"{len(bib_data.entries) - idx}. "
+        if idx > 0:
+            lines.append("")
+        str_ = "1. "
 
         # add names
         names = ""
@@ -50,16 +56,18 @@ if __name__ == "__main__":
             names += first_names_str
             if name.startswith("Moore, T. C."):
                 names += "__"
-        str_ += names
+        # str_ += names
 
-        # add title with link
+        # add title, including link if available
+        title_str_ = f"{entry.fields['title'].replace('{', '').replace('}', '')}"
         if (
             "Myurl" in entry.fields
-            and entry.fields["myurl"] != "https://tcmoore3.github.io/pdfs/"
+            # and entry.fields["myurl"] != "https://tcmoore3.github.io/pdfs/"
         ):
-            str_ += f" [{entry.fields['title'].replace('{', '').replace('}', '')}]({entry.fields['Myurl']})."
+            title_str_ = "[" + title_str_ + f"]({entry.fields['Myurl']})"
         else:
-            str_ += f" {entry.fields['title'].replace('{', '').replace('}', '')}"
+            title_str_ = f"<ins>{title_str_}</ins>"
+        title_str_ = "" + title_str_
 
         publication_info = dict(journal=None, volume=None, year=None)
         for _k in publication_info.keys():
@@ -69,25 +77,37 @@ if __name__ == "__main__":
             except KeyError:
                 continue
         printed_publication_info = False
+        pub_str_ = ""
         for _k in ["journal", "volume", "year"]:
             if publication_info[_k] is not None:
                 printed_publication_info = True
                 if _k == "journal":
-                    str_ += f" _{publication_info[_k]}_"
+                    pub_str_ += f" _{publication_info[_k]}_"
                 elif _k == "year":
-                    str_ += f" ({publication_info[_k]})"
+                    pub_str_ += f" ({publication_info[_k]})"
                 elif _k == "volume":
-                    str_ += f" vol. {publication_info[_k]}"
+                    pub_str_ += f" vol. {publication_info[_k]}"
                 else:
                     str_ += f" {publication_info[_k]}"
         if printed_publication_info:
-            str_ += "."
+            # str_ += "."
+            pass
 
         doi = entry.fields.get("Doi", None)
         if doi is not None:
-            str_ += f" [doi:{doi}](https://doi.org/{doi})."
+            # str_ += f" [doi:{doi}](https://doi.org/{doi})."
+            pass
 
-        lines.append(str_)
+        # combine it all together
+        str_ += title_str_
+
+        lines.append(f"{title_str_}. ")
+        lines.append(f"{names} ")
+        if pub_str_:
+            lines.append(f"{pub_str_}. ")
+        if doi is not None:
+            lines.append(f"[doi:{doi}](https://doi.org/{doi}).")
+
     lines.append('{: reversed="reversed"}')
 
     for _line in lines:
