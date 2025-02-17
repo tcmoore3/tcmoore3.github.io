@@ -53,11 +53,13 @@ if __name__ == "__main__":
         str_ += names
 
         # add title with link
-        if "Myurl" in entry.fields:
-            str_ += f" [{entry.fields['title']}]({entry.fields['Myurl']})."
+        if (
+            "Myurl" in entry.fields
+            and entry.fields["myurl"] != "https://tcmoore3.github.io/pdfs/"
+        ):
+            str_ += f" [{entry.fields['title'].replace('{', '').replace('}', '')}]({entry.fields['Myurl']})."
         else:
-            str_ += f" {entry.fields['title']}."
-        link = "https://tcmoore3.github.io/pdfs/zhong_et_al-natchemeng-2024.pdf"
+            str_ += f" {entry.fields['title'].replace('{', '').replace('}', '')}"
 
         publication_info = dict(journal=None, volume=None, year=None)
         for _k in publication_info.keys():
