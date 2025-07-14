@@ -66,7 +66,8 @@ if __name__ == "__main__":
         ):
             title_str_ = "[" + title_str_ + f"]({entry.fields['Myurl']})"
         else:
-            title_str_ = f"<ins>{title_str_}</ins>"
+            # title_str_ = f"<ins>{title_str_}</ins>"
+            title_str_ = "[" + title_str_ + "](https://tcmoore3.github.io/pdfs/)"
         title_str_ = "" + title_str_
 
         publication_info = dict(journal=None, volume=None, year=None)

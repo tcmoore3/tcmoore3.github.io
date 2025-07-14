@@ -4,6 +4,18 @@ title: "List of publications"
 ---
 Titles link to a PDF of that publication (with supplementary information included!). †equal contribution.
 
+[Defect Structures in Colloidal Crystals and Their Effect on Grating Diffraction Structural Color](https://tcmoore3.github.io/pdfs/liu_et_al-acsami-2025.pdf). 
+Liu, T. and Young, C. and __Moore, T. C.__ and Glotzer, S. C. and Solomon, M. J. 
+ _ACS Applied Materials \& Interfaces_ vol. 17 (2025). 
+
+[Achieving Reproducibility and Replicability of Molecular Dynamics and Monte Carlo Simulations Using the Molecular Simulation Design Framework (MoSDeF)](https://tcmoore3.github.io/pdfs/craven_et_al-jced-2025.pdf). 
+Craven, N. C. and Singh, R. and Quach, C. D. and Gilmer, J. B. and Crawford, B. and Marin-Rimoldi, E. and Smith, R. and DeFever, R. and Dyukov, M. S. and Fothergill, J. W. and Jones, C. and __Moore, T. C.__ and Butler, B. L. and Anderson, J. A. and Iacovella, C. R. and Jankowski, E. and Maginn, E. J. and Potoff, J. J. and Glotzer, S. C. and Cummings, P. T. and M<sup>c</sup>Cabe, C. and Siepmann, J. I. 
+ _Journal of Chemical \& Engineering Data_ vol. 70 (2025). 
+
+[Octo-diamond crystal of nanoscale tetrahedra with interchanging chiral motifs](https://tcmoore3.github.io/pdfs/lu_et_al-natmat-2025.pdf). 
+Lu, F. and Zhang, Y. and Dwyer, T. and Michelson, A. and __Moore, T. C.__ and Yan, H. and Kisslinger, K. and Zhang, H. and Chen, X. and Glotzer, S. C. and Gang, O. 
+ _Nature Materials_ vol. 24 (2025). 
+
 [Engineering and direct imaging of nanocube self-assembly pathways](https://tcmoore3.github.io/pdfs/zhong_et_al-natchemeng-2024.pdf). 
 Zhong, Y.† and __Moore, T. C.†__ and Dwyer, T.† and Butrum-Griffith, A. and Allen, V. R. and Chen, J. and Wang, Y. and Cheng, F. and Glotzer, S. C. and Ye, X. 
  _Nature Chemical Engineering_ vol. 1 (2024). 
@@ -29,12 +41,12 @@ LaCour, R. A. and __Moore, T. C.__ and Glotzer, S. C.
  _Physical Review Letters_ vol. 128 (2022). 
 [doi:10.1103/PhysRevLett.128.188001](https://doi.org/10.1103/PhysRevLett.128.188001).
 
-[Using molecular simulation to understand the skin barrier](https://tcmoore3.github.io/pdfs/shamaprasad_et_al-plr-2022.pdf). 
+[Using molecular simulation to understand the skin barrier](https://tcmoore3.github.io/pdfs/shamaprasad_et_al-plr-2022.pdf)). 
 Shamaprasad, P. and Frame, C. O. and __Moore, T. C.__ and Yang, A. and Iacovella, C. R. and Bouwstra, J. A. and Bunge, A. L. and M<sup>c</sup>Cabe, C. 
  _Progress in Lipid Research_ vol. 88 (2022). 
 [doi:10.1016/j.plipres.2022.101184](https://doi.org/10.1016/j.plipres.2022.101184).
 
-[Multiscale Simulation of Ternary Stratum Corneum Lipid Mixtures: Effects of Cholesterol Composition](https://tcmoore3.github.io/pdfs/shamaprasad_et_al-langmuir-2022.pdf). 
+[Multiscale Simulation of Ternary Stratum Corneum Lipid Mixtures: Effects of Cholesterol Composition](https://tcmoore3.github.io/pdfs/). 
 Shamaprasad, P. and __Moore, T. C.__ and Xia, D. and Iacovella, C. R. and Bunge, A. L. and M<sup>c</sup>Cabe, C. 
  _Langmuir_ vol. 38 (2022). 
 [doi:10.1021/acs.langmuir.2c00471](https://doi.org/10.1021/acs.langmuir.2c00471).
