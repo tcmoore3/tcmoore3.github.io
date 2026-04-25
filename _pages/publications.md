@@ -41,7 +41,7 @@ LaCour, R. A. and __Moore, T. C.__ and Glotzer, S. C.
  _Physical Review Letters_ vol. 128 (2022). 
 [doi:10.1103/PhysRevLett.128.188001](https://doi.org/10.1103/PhysRevLett.128.188001).
 
-[Using molecular simulation to understand the skin barrier](https://tcmoore3.github.io/pdfs/shamaprasad_et_al-plr-2022.pdf)). 
+[Using molecular simulation to understand the skin barrier](https://tcmoore3.github.io/pdfs/shamaprasad_et_al-plr-2022.pdf). 
 Shamaprasad, P. and Frame, C. O. and __Moore, T. C.__ and Yang, A. and Iacovella, C. R. and Bouwstra, J. A. and Bunge, A. L. and M<sup>c</sup>Cabe, C. 
  _Progress in Lipid Research_ vol. 88 (2022). 
 [doi:10.1016/j.plipres.2022.101184](https://doi.org/10.1016/j.plipres.2022.101184).
