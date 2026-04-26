@@ -101,7 +101,7 @@ Hartkamp, R. and __Moore, T. C.__ and Iacovella, C. R. and Thompson, M. A. and B
  _Biophysical Journal_ vol. 111 (2016). 
 [doi:10.1016/j.bpj.2016.07.016](https://doi.org/10.1016/j.bpj.2016.07.016).
 
-[Structural properties of phospholipid-based bilayers with long-chain alcohol molecules in the gel phase](https://tcmoore3.github.io/pdfs/hartkamp_et_al-bj-2016.pdf). 
+[Structural properties of phospholipid-based bilayers with long-chain alcohol molecules in the gel phase](https://tcmoore3.github.io/pdfs/hartkamp_et_al-jpcb-2016.pdf). 
 Hartkamp, R. and __Moore, T. C.__ and Iacovella, C. R. and Thompson, M. A. and Bulsara, P. A. and Moore, D. J. and M<sup>c</sup>Cabe, C. 
  _The Journal of Physical Chemistry B_ vol. 120 (2016). 
 [doi:10.1021/acs.jpcb.6b10192](https://doi.org/10.1021/acs.jpcb.6b10192).
