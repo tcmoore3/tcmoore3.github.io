@@ -46,72 +46,72 @@ Shamaprasad, P. and Frame, C. O. and __Moore, T. C.__ and Yang, A. and Iacovella
  _Progress in Lipid Research_ vol. 88 (2022). 
 [doi:10.1016/j.plipres.2022.101184](https://doi.org/10.1016/j.plipres.2022.101184).
 
-[Multiscale Simulation of Ternary Stratum Corneum Lipid Mixtures: Effects of Cholesterol Composition](https://tcmoore3.github.io/pdfs/). 
+[Multiscale Simulation of Ternary Stratum Corneum Lipid Mixtures: Effects of Cholesterol Composition](https://tcmoore3.github.io/pdfs/shamaprasad_et_al-langmuir-2022.pdf). 
 Shamaprasad, P. and __Moore, T. C.__ and Xia, D. and Iacovella, C. R. and Bunge, A. L. and M<sup>c</sup>Cabe, C. 
  _Langmuir_ vol. 38 (2022). 
 [doi:10.1021/acs.langmuir.2c00471](https://doi.org/10.1021/acs.langmuir.2c00471).
 
-[Shape-driven entropic self-assembly of an open, reconfigurable, binary host--guest colloidal crystal](https://tcmoore3.github.io/pdfs/). 
+[Shape-driven entropic self-assembly of an open, reconfigurable, binary host--guest colloidal crystal](https://tcmoore3.github.io/pdfs/moore_et_al-soft_matter-2021.pdf). 
 __Moore, T. C.__ and Anderson, J. A. and Glotzer, S. C. 
  _Soft Matter_ vol. 17 (2021). 
 [doi:10.1039/d0sm02073g](https://doi.org/10.1039/d0sm02073g).
 
-[Examining Tail and Headgroup Effects on Binary and Ternary Gel-Phase Lipid Bilayer Structure](https://tcmoore3.github.io/pdfs/). 
+[Examining Tail and Headgroup Effects on Binary and Ternary Gel-Phase Lipid Bilayer Structure](https://tcmoore3.github.io/pdfs/yang_et_al-jpcb-2020.pdf). 
 Yang, A. and __Moore, T. C.__ and Iacovella, C. R. and Thompson, M. and Moore, D. J. and M<sup>c</sup>Cabe, C. 
  _The Journal of Physical Chemistry B_ vol. 124 (2020). 
 [doi:10.1021/acs.jpcb.0c00490](https://doi.org/10.1021/acs.jpcb.0c00490).
 
-[Influence of single-stranded DNA coatings on the interaction between graphene nanoflakes and lipid bilayers](https://tcmoore3.github.io/pdfs/). 
+[Influence of single-stranded DNA coatings on the interaction between graphene nanoflakes and lipid bilayers](https://tcmoore3.github.io/pdfs/moore_et_al-jpcb-2019.pdf). 
 __Moore, T. C.__ and Yang, A. H. and Ogungbesan, O. and Hartkamp, R. and Iacovella, C. R. and Zhang, Q. and M<sup>c</sup>Cabe, C. 
  _The Journal of Physical Chemistry B_ vol. 123 (2019). 
 [doi:10.1021/acs.jpcb.9b04042](https://doi.org/10.1021/acs.jpcb.9b04042).
 
-[Analysis of self-assembly pathways with unsupervised machine learning algorithms](https://tcmoore3.github.io/pdfs/). 
+[Analysis of self-assembly pathways with unsupervised machine learning algorithms](https://tcmoore3.github.io/pdfs/adorf_et_al-jpcb-2019.pdf). 
 Adorf, C. S. and __Moore, T. C.__ and Melle, Y. and Glotzer, S. C. 
  _The Journal of Physical Chemistry B_ vol. 124 (2020). 
 [doi:10.1021/acs.jpcb.9b09621](https://doi.org/10.1021/acs.jpcb.9b09621).
 
-[Effect of ceramide tail length on the structure of model stratum corneum lipid bilayers](https://tcmoore3.github.io/pdfs/). 
+[Effect of ceramide tail length on the structure of model stratum corneum lipid bilayers](https://tcmoore3.github.io/pdfs/moore_et_al-bj-2018.pdf). 
 __Moore, T. C.__ and Hartkamp, R. and Iacovella, C. R. and Bunge, A. L. and M<sup>c</sup>Cabe, C. 
  _Biophysical Journal_ vol. 114 (2018). 
 [doi:10.1016/j.bpj.2017.10.031](https://doi.org/10.1016/j.bpj.2017.10.031).
 
-[Composition dependence of water permeation across multicomponent gel-phase bilayers](https://tcmoore3.github.io/pdfs/). 
+[Composition dependence of water permeation across multicomponent gel-phase bilayers](https://tcmoore3.github.io/pdfs/hartkamp_et_al-jpcb-2018.pdf). 
 Hartkamp, R. and __Moore, T. C.__ and Iacovella, C. R. and Thompson, M. A. and Bulsara, P. A. and Moore, D. J. and M<sup>c</sup>Cabe, C. 
  _The Journal of Physical Chemistry B_ vol. 122 (2018). 
 [doi:10.1021/acs.jpcb.8b00747](https://doi.org/10.1021/acs.jpcb.8b00747).
 
-[Molecular dynamics simulations of stratum corneum lipid mixtures: a multiscale perspective](https://tcmoore3.github.io/pdfs/). 
+[Molecular dynamics simulations of stratum corneum lipid mixtures: a multiscale perspective](https://tcmoore3.github.io/pdfs/moore_et_al-bbrc-2018.pdf). 
 __Moore, T. C.__ and Iacovella, C. R. and Leonhard, A. C. and Bunge, A. L. and M<sup>c</sup>Cabe, C. 
  _Biochemical and Biophysical Research Communications_ vol. 498 (2017). 
 [doi:10.1016/j.bbrc.2017.09.040](https://doi.org/10.1016/j.bbrc.2017.09.040).
 
-[Development of a coarse-grained water forcefield via multistate iterative Boltzmann inversion](https://tcmoore3.github.io/pdfs/). 
+[Development of a coarse-grained water forcefield via multistate iterative Boltzmann inversion](https://tcmoore3.github.io/pdfs/moore_et_al-fomms-2016.pdf). 
 __Moore, T. C.__ and Iacovella, C. R. and M<sup>c</sup>Cabe, C. 
  (2016). 
 [doi:10.1007/978-981-10-1128-3_3](https://doi.org/10.1007/978-981-10-1128-3_3).
 
-[A coarse-grained model of stratum corneum lipids: free fatty acids and ceramide NS](https://tcmoore3.github.io/pdfs/). 
+[A coarse-grained model of stratum corneum lipids: free fatty acids and ceramide NS](https://tcmoore3.github.io/pdfs/moore_et_al-jpcb-2016.pdf). 
 __Moore, T. C.__ and Iacovella, C. R. and Hartkamp, R. and Bunge, A. L. and M<sup>c</sup>Cabe, C. 
  _The Journal of Physical Chemistry B_ vol. 120 (2016). 
 [doi:10.1021/acs.jpcb.6b08046](https://doi.org/10.1021/acs.jpcb.6b08046).
 
-[Investigating the structure of multicomponent gel-phase lipid bilayers](https://tcmoore3.github.io/pdfs/). 
+[Investigating the structure of multicomponent gel-phase lipid bilayers](https://tcmoore3.github.io/pdfs/hartkamp_et_al-bj-2016.pdf). 
 Hartkamp, R. and __Moore, T. C.__ and Iacovella, C. R. and Thompson, M. A. and Bulsara, P. A. and Moore, D. J. and M<sup>c</sup>Cabe, C. 
  _Biophysical Journal_ vol. 111 (2016). 
 [doi:10.1016/j.bpj.2016.07.016](https://doi.org/10.1016/j.bpj.2016.07.016).
 
-[Structural properties of phospholipid-based bilayers with long-chain alcohol molecules in the gel phase](https://tcmoore3.github.io/pdfs/). 
+[Structural properties of phospholipid-based bilayers with long-chain alcohol molecules in the gel phase](https://tcmoore3.github.io/pdfs/hartkamp_et_al-bj-2016.pdf). 
 Hartkamp, R. and __Moore, T. C.__ and Iacovella, C. R. and Thompson, M. A. and Bulsara, P. A. and Moore, D. J. and M<sup>c</sup>Cabe, C. 
  _The Journal of Physical Chemistry B_ vol. 120 (2016). 
 [doi:10.1021/acs.jpcb.6b10192](https://doi.org/10.1021/acs.jpcb.6b10192).
 
-[Derivation of coarse-grained potentials via multistate iterative Boltzmann inversion](https://tcmoore3.github.io/pdfs/). 
+[Derivation of coarse-grained potentials via multistate iterative Boltzmann inversion](https://tcmoore3.github.io/pdfs/moore_et_al-jcp-2014.pdf). 
 __Moore, T. C.__ and Iacovella, C. R. and M<sup>c</sup>Cabe, C. 
  _The Journal of Chemical Physics_ vol. 140 (2014). 
 [doi:10.1063/1.4880555](https://doi.org/10.1063/1.4880555).
 
-[Simulation study of the structure and phase behavior of ceramide bilayers and the role of lipid headgroup chemistry](https://tcmoore3.github.io/pdfs/). 
+[Simulation study of the structure and phase behavior of ceramide bilayers and the role of lipid headgroup chemistry](https://tcmoore3.github.io/pdfs/guo_et_al-jctc-2013.pdf). 
 Guo, S. and __Moore, T. C.__ and Iacovella, C. R. and Strickland, L. A. and M<sup>c</sup>Cabe, C. 
  _Journal of Chemical Theory and Computation_ vol. 9 (2013). 
 [doi:10.1021/ct400431e](https://doi.org/10.1021/ct400431e).
