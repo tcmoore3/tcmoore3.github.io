@@ -4,6 +4,11 @@ title: "List of publications"
 ---
 Titles link to a PDF of that publication (with supplementary information included!). †equal contribution.
 
+[Intermetallic nanoassemblies potentiate systemic STING activation](https://tcmoore3.github.io/pdfs/zhong_et_al-science-2026.pdf). 
+Zhou, X. and Ling, X. and Sun, X. and Wan, Z. and Dwyer, T. and __Moore, T. C.__ and Li, Q. and Dobson, H. E. and Wu, Q. and Kong, X. and Xie, F. and An, X. and Gan, J. and Wang, K. and Cho, Y. S. and Gong, W. and Dong, K. and Zhang, J. and Takahashi, M. and Xu, C. and Kodamasimham, S. and Xu, J. and Yuzbasiyan-Gurkan, V. and Chinn, S. B. and Schwendeman, A. and Glotzer, S. C. and Lei, Y. L. and Moon, J. J. 
+ _Science_ vol. 392 (2026). 
+[doi:10.1126/science.adx1893](https://doi.org/10.1126/science.adx1893).
+
 [Defect Structures in Colloidal Crystals and Their Effect on Grating Diffraction Structural Color](https://tcmoore3.github.io/pdfs/liu_et_al-acsami-2025.pdf). 
 Liu, T. and Young, C. and __Moore, T. C.__ and Glotzer, S. C. and Solomon, M. J. 
  _ACS Applied Materials \& Interfaces_ vol. 17 (2025). 
