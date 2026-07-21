@@ -4,6 +4,11 @@ title: "List of publications"
 ---
 Titles link to a PDF of that publication (with supplementary information included!). †equal contribution.
 
+[Stabilizing in-transition phases of superlattices through shape control of silver nanocrystals](https://tcmoore3.github.io/pdfs/nagaoka_et_al-science-2026.pdf). 
+Nagaoka, Y. and __Moore, T. C.__ and Epishin, A. and Liu, Z. and Cai, T. and Jin, N. and Hong, K. S. and Saghy, P. and Wang, A. and Liu, Y. and Hwang, S. and Bai, Y. and Zou, S. and Li, R. and Reich, S. and Glotzer, S. C. and Chen, O. 
+ _Science_ vol. 392 (2026). 
+[doi:10.1126/science.ady6472](https://doi.org/10.1126/science.ady6472).
+
 [Intermetallic nanoassemblies potentiate systemic STING activation](https://tcmoore3.github.io/pdfs/zhou_et_al-science-2026.pdf). 
 Zhou, X. and Ling, X. and Sun, X. and Wan, Z. and Dwyer, T. and __Moore, T. C.__ and Li, Q. and Dobson, H. E. and Wu, Q. and Kong, X. and Xie, F. and An, X. and Gan, J. and Wang, K. and Cho, Y. S. and Gong, W. and Dong, K. and Zhang, J. and Takahashi, M. and Xu, C. and Kodamasimham, S. and Xu, J. and Yuzbasiyan-Gurkan, V. and Chinn, S. B. and Schwendeman, A. and Glotzer, S. C. and Lei, Y. L. and Moon, J. J. 
  _Science_ vol. 392 (2026). 
